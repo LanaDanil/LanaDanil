@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LanaDanil
 - 👀 Automation
-- 🌱 Cypress
+- 🌱 Cypress Cucumber
 - 💞️ Webtesting
 - 📫 How to reach me ...
 
