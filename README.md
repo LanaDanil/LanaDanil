@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LanaDanil
-- 👀 I’m interested in ...Automation
-- 🌱 I’m currently learning ...Cypress
-- 💞️ I’m looking to collaborate on ...Webtesting
+- 👀 Automation
+- 🌱 Cypress
+- 💞️ Webtesting
 - 📫 How to reach me ...
 
 <!---
